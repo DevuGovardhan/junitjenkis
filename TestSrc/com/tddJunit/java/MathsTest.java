@@ -8,7 +8,6 @@ import org.junit.Test;
 public class MathsTest {
 
 	private Maths classundertest;	
-
 	@Before
 	public void setUp() throws Exception {
 
